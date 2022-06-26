@@ -1,0 +1,8 @@
+2022-06-06 09:21:32,294 | INFO | 15: 
+The sum of all elements of [5, 6] is : 11
+2022-06-06 11:31:40,761 | INFO | 15: 
+The Smallest element of all elements of [2, 3, 1, 4, 5] is : 1
+2022-06-06 11:32:28,950 | INFO | 31: 
+The count of string having same first and last character and lenth is greater than 1 are : 0
+2022-06-06 11:33:00,727 | INFO | 31: 
+Is ['3', '9', '6', '1', '2'] and ['6', '3', '1', '5'] have atleast one common element : True
